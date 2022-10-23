@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+	Add - add stone to necklace
+	Remove - remove stone from necklace
+	Edit - edit properties for a specific stone in a necklace
+	Find by transparency - find stones in a necklace with given transparency value
+	Print - print information about a necklace and stones in it
+	Remove all - remove all stones from necklace
+	Sort - sort stones by...
+	Total - total weight and price of a necklace
+-----------------------------------------------------------------------------------------------------------------------------------
